@@ -9,8 +9,8 @@ Group:		Applications/Text
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/bn/aspell6-bn-%{version}-%{subv}.tar.bz2
 # Source0-md5:	5ea70ec74e67f49b2844d306ddf38388
 URL:		http://aspell.net/
-BuildRequires:	aspell >= 0.60
-Requires:	aspell >= 0.60
+BuildRequires:	aspell >= 3:0.60
+Requires:	aspell >= 3:0.60
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
