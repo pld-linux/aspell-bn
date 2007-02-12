@@ -1,5 +1,5 @@
 Summary:	Bengali dictionary for aspell
-Summary(pl.UTF-8):   Bengalski słownik dla aspella
+Summary(pl.UTF-8):	Bengalski słownik dla aspella
 Name:		aspell-bn
 Version:	0.01.1
 %define	subv	1
