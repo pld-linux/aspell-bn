@@ -1,5 +1,5 @@
 Summary:	Bengali dictionary for aspell
-Summary(pl):	Bengalski s≥ownik dla aspella
+Summary(pl.UTF-8):   Bengalski s≈Çownik dla aspella
 Name:		aspell-bn
 Version:	0.01.1
 %define	subv	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Bengali dictionary (i.e. word list) for aspell.
 
-%description -l pl
-Bengalski s≥ownik (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+Bengalski s≈Çownik (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-bn-%{version}-%{subv}
