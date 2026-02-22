@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Bengalski słownik dla aspella
 Name:		aspell-bn
 Version:	0.01.1
 %define	subv	1
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/bn/aspell6-bn-%{version}-%{subv}.tar.bz2
